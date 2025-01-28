@@ -19,5 +19,5 @@ Va até a pasta que você quer receber o repositório e faça:
 - Entre na pasta e digite no CMD: ` npm install `
 
 ## Como remover projetos do React
-Abra o CMD e digite o seguinte comando: ` rd /s /q "nome da pasta" ` 
-Obs: não pode ser direto na pasta, tem que ser um diretório antes
+- Abra o CMD e digite o seguinte comando: ` rd /s /q "nome da pasta" ` 
+- Obs: não pode ser direto na pasta, tem que ser um diretório antes

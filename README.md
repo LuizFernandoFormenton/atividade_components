@@ -17,3 +17,7 @@ Ter certeza de ter o __GIT__ instlado no PC e usar o _Github Desktop_
 Va até a pasta que você quer receber o repositório e faça:
 - Abra o CMD e digite: ` git clone [link do projeto] `
 - Entre na pasta e digite no CMD: ` npm install `
+
+## Como remover projetos do React
+Abra o CMD e digite o seguinte comando: ` rd /s /q "nome da pasta" ` 
+Obs: não pode ser direto na pasta, tem que ser um diretório antes
